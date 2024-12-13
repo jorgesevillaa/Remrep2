@@ -3,3 +3,4 @@ Primera consolidación en el fichero2 para solucionar el bug.
 =======
 Primera consolidación en el fichero2 para la rama pedidos.
 >>>>>>> portada
+Consolidación para reomoto
